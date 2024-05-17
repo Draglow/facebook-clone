@@ -1,0 +1,6 @@
+"django"
+"pillow"
+"django-jazzmin"
+"crispy_forms"
+"taggit"
+"import_export"
