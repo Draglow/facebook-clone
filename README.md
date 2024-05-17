@@ -22,15 +22,15 @@ This is a Facebook clone project built with Django. It replicates some of the co
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/facebook-clone.git
-2. Navigate to the project directory:
+   git clone https://github.com/Draglow/facebook-clone.git
+2. Navigate to the project directory:  "cd facebook-clone"
 
 
-   cd facebook-clone
-3. Create a virtual environment:
+ 
+3. Create a virtual environment: "python3 -m venv env"
 
 
-   python3 -m venv env
+  
 4. Activate the virtual environment:
 
     - **On macOS and Linux**: source env/bin/activate.
@@ -41,17 +41,17 @@ This is a Facebook clone project built with Django. It replicates some of the co
 
 
    
-5. Install the dependencies:
+5. Install the dependencies: "pip install -r requirements.txt"
 
 
-   pip install -r requirements.txt
-6. Apply the database migrations:
+   
+6. Apply the database migrations: "python manage.py migrate"
 
 
-   python manage.py migrate
-7. Run the development server:
+   
+7. Run the development server: python manage.py runserver
 
 
-   python manage.py runserver
+   
 8. Access the application in your web browser at http://localhost:8000.
 
