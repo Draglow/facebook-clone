@@ -10,6 +10,7 @@ This is a Facebook clone project built with Django. It replicates some of the co
 - **Reply comment**: Users can reply comment on posts,like replies.
 - **Liking Posts**: Users can like posts.
 - **Friend Requests**: Users can send and accept friend requests.
+- **Add Story**: Users can add story.
 
 ## Technologies Used
 
