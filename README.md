@@ -1,3 +1,5 @@
+![Alt Text](facebook-clone.png)
+
 # Facebook Clone
 
 This is a Facebook clone project built with Django. It replicates some of the core features of Facebook, including user authentication, posting updates, commenting, and liking posts and many other features.
